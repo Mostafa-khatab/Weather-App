@@ -13,7 +13,6 @@ Welcome to the **Weather App** project! This app allows users to get accurate an
 ![Search Screen](./assets/p1.png)
 ![Weather Display Screen](./assets/p2.png)
 
-> Add these screenshots to showcase the app's interface!
 
 ## 🚀 How to Use
 
